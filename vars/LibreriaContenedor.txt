@@ -1,1 +1,1 @@
-Libreria contenedor crea un contenedor Node
+compruebo la version del contenedor
